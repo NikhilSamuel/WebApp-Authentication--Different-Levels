@@ -8,4 +8,4 @@ Hashing - Added Hashing in the second version using md5 hashing algorythm
 
 Salting- Added salt using bcrypt js to make website more secure - bcrypt works using different rounds of hashing conventionally known as salt rounds. Combination of chars added to the already generated hash and undergoes hashing to generate a new hash.
 
-Cookies & Sessions - Use Passport js
+Cookies & Sessions - Using Passport js for authentication and to save user sessions.
